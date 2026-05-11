@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Gadse",
+  "name": "Katze -> Gadse",
   "version": "1.0",
   "description": "Ersetzt alle Vorkommen von 'Katze' auf einer Website mit 'Gadse', weil das einfach besser klingt. Miau!",
   "content_scripts": [
